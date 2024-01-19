@@ -20,5 +20,5 @@ Merge:
 
 De tal forma que quede así: 
 
-![Imagen ramas](img/Screenshot_20240119_095627/)
+![Imagen ramas](Img/Screenshot_20240119_095627/)
 
