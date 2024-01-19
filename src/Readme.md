@@ -17,3 +17,8 @@ Cambiar de rama:
 Merge:
 
 **Git>Clic derecho en rama> Merge (nombre de la rama A) into (nombre de la rama B)>Merge>Apply**
+
+De tal forma que quede así: 
+
+![Imagen ramas](src/img/Screenshot_20240119_095627/)
+
